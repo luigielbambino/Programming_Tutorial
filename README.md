@@ -2,8 +2,8 @@
 Programming Tutorial for CSM and HCI students  
 
 Proper order of exercises:
-* Structures
-* Methods
+* Structures - completed
+* Methods - completed
 * Recursion
 * Lists and Arrays
 * Strings 
