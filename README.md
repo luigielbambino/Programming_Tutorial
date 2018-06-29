@@ -6,9 +6,9 @@ Proper order of exercises:
 * Methods - completed
 * Recursion - completed (except bonus)
 * Lists and Arrays - completed
-* Strings - working
-* OOP1 
-* OOP2 
+* Strings - completed
+* OOP1 - completed
+* OOP2 - completed
 * Exceptions 
 * Enums 
 * Generics  
