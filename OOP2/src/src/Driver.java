@@ -15,6 +15,9 @@ public class Driver {
 		System.out.println(myPig.getName() + " says: My birthday is on " + myLion.getBirthday() + " and I am " + myLion.getGender());
 		myPig.saySomething();
 		myPig.pet();
+		if(myPig.isDangerous){
+			System.out.println("This animal is very nice :)");
+		}
 	}
 	
 	
