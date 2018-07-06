@@ -9,8 +9,8 @@ Proper order of exercises:
 * Strings - completed
 * OOP1 - completed
 * OOP2 - completed
-* Exceptions 
-* Enums 
+* Exceptions - completed
+* Enums - completed
 * Generics  
 * Databases 
 * InputOutput 
