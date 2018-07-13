@@ -11,7 +11,7 @@ public enum SolarSystem {
 	
 	private final double mass;
 	private final double radius;
-	private double GRAVITY = 6.67300E-11;
+	private final double GRAVITY = 6.67300E-11;
 	
 	private SolarSystem(double mass, double radius) {
 		this.mass = mass;
